@@ -1,0 +1,3 @@
+
+void greet();
+void game();
